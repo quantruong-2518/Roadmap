@@ -1,4 +1,5 @@
 <strong>#Roadmap-basicjs</strong> <strong>#DOM</strong> <strong>#DOM-manipulations</strong>
+by: <strong>Steve Truong</strong> - at: Feb-26th
 
 <h2>1. DOM là gì?</h2> <br />
 DOM (Document Object Model – tạm dịch Mô hình Các Đối tượng Tài liệu). Là một chuẩn được định nghĩa bởi W3C (Tổ Chức Web Toàn Cầu – World Wide Web Consortium). DOM được dùng để truy xuất và thao tác trên các tài liệu có cấu trúc dạng HTML hay XML.
