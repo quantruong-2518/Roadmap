@@ -51,5 +51,5 @@ Quan hệ giữa các Nodes:
 
   
 <h2>3. Attachment</h2> <br />
-doc: https://topdev.vn/blog/dom-la-gi/
-
+Tiếng Việt: https://topdev.vn/blog/dom-la-gi/
+hàng tuyển: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents#creating_and_placing_new_nodes
